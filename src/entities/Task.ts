@@ -2,5 +2,5 @@ export interface Task {
     id: string;
     name: string;
     isDone: boolean;
-    tagId: string;
+    tagId?: string;
 }

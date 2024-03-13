@@ -1,0 +1,30 @@
+"filename", "language", "TypeScript", "JSON with Comments", "JSON", "TypeScript JSX", "JavaScript", "CSS", "XML", "Markdown", "comment", "blank", "total"
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\.eslintrc.json", "JSON", 0, 0, 3, 0, 0, 0, 0, 0, 0, 1, 4
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\README.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 25, 0, 16, 41
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\next.config.mjs", "JavaScript", 0, 0, 0, 0, 4, 0, 0, 0, 1, 2, 7
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\package-lock.json", "JSON", 0, 0, 4960, 0, 0, 0, 0, 0, 0, 1, 4961
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\package.json", "JSON", 0, 0, 32, 0, 0, 0, 0, 0, 0, 1, 33
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\postcss.config.js", "JavaScript", 0, 0, 0, 0, 6, 0, 0, 0, 0, 1, 7
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\public\next.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\public\vercel.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\components\Forms\CreateTagForm.tsx", "TypeScript JSX", 0, 0, 0, 65, 0, 0, 0, 0, 0, 8, 73
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\components\Forms\CreateTaskForm.tsx", "TypeScript JSX", 0, 0, 0, 85, 0, 0, 0, 0, 0, 7, 92
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\components\Forms\EditTagForm.tsx", "TypeScript JSX", 0, 0, 0, 56, 0, 0, 0, 0, 0, 8, 64
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\components\Forms\EditTaskForm.tsx", "TypeScript JSX", 0, 0, 0, 78, 0, 0, 0, 0, 0, 9, 87
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\components\Lists\ListIndex.tsx", "TypeScript JSX", 0, 0, 0, 28, 0, 0, 0, 0, 0, 4, 32
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\components\Lists\ListToggle.tsx", "TypeScript JSX", 0, 0, 0, 37, 0, 0, 0, 0, 0, 5, 42
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\components\Lists\Tags\TagList.tsx", "TypeScript JSX", 0, 0, 0, 16, 0, 0, 0, 0, 0, 4, 20
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\components\Lists\Tags\TagListItem.tsx", "TypeScript JSX", 0, 0, 0, 25, 0, 0, 0, 0, 0, 6, 31
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\components\Lists\Tasks\TaskList.tsx", "TypeScript JSX", 0, 0, 0, 68, 0, 0, 0, 0, 0, 5, 73
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\components\Lists\Tasks\TaskListItem.tsx", "TypeScript JSX", 0, 0, 0, 32, 0, 0, 0, 0, 0, 8, 40
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\components\Modal.tsx", "TypeScript JSX", 0, 0, 0, 41, 0, 0, 0, 0, 0, 7, 48
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\components\TagSelectItem.tsx", "TypeScript JSX", 0, 0, 0, 9, 0, 0, 0, 0, 0, 2, 11
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\entities\Tag.ts", "TypeScript", 6, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\entities\Task.ts", "TypeScript", 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\pages\_app.tsx", "TypeScript JSX", 0, 0, 0, 5, 0, 0, 0, 0, 0, 2, 7
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\pages\_document.tsx", "TypeScript JSX", 0, 0, 0, 12, 0, 0, 0, 0, 0, 2, 14
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\pages\index.tsx", "TypeScript JSX", 0, 0, 0, 56, 0, 0, 0, 0, 0, 8, 64
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\src\styles\globals.css", "CSS", 0, 0, 0, 0, 0, 3, 0, 0, 0, 1, 4
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\tailwind.config.ts", "TypeScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 2, 21
+"d:\pastas_relevantes\UnB\CJR\pre_projeto_frontend\tsconfig.json", "JSON with Comments", 0, 21, 0, 0, 0, 0, 0, 0, 0, 1, 22
+"Total", "-", 31, 21, 4995, 613, 10, 3, 2, 25, 1, 112, 5813
